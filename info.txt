@@ -1,0 +1,15 @@
+open project location in terminal or powershell
+
+1) goto root folder type
+npm install
+
+2) and goto frontend path type
+npm install
+
+these command will generate node_module with all required dependencies
+====================
+nodemon
+    -nodemon is used to run our code in watch mode
+=======================
+concurrently 
+    - with concurrently we can run our both client and server at same command
